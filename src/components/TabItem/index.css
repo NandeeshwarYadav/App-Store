@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.tab-btn {
+  color: #7b8794;
+  font-size: 25px;
+  margin-right: 40px;
+  border-style: none;
+  background-color: transparent;
+}
+.change-tab-button {
+  font-size: 25px;
+  color: #2563eb;
+  text-decoration: underline;
+  background-color: transparent;
+}
